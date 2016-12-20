@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Real_wage_index_cash_gross_salary_
+# monthly_labor_survey_real_wage_index_cash_gross_salary_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（実質賃金指数（現金給与総額）及び対前年比)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
